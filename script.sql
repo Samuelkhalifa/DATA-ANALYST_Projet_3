@@ -32,7 +32,7 @@ CREATE TABLE movies (
 );
 
 -- IMPORT MANUEL DES DONNES CSV
-LOAD DATA INFILE "/Users/samuelkhalifa/Desktop/data_analyst/PROJETS/Projet3/movie_dataset_cleaned.csv"
+LOAD DATA INFILE "/Users/samuelkhalifa/Desktop/data_analyst/PROJETS/Projet3/dataset/movie_dataset_cleaned.csv"
 INTO TABLE movies
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"' 
