@@ -9,7 +9,7 @@ Ce Repository contient un projet réalisé dans le cadre de mon apprentissage de
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
 
 
-## [Problématique : Analyser les ventes d'un hôtel sur 3 ans]
+## [Problématique : Générer un dashboard servant les données enrichies du dataset Movies]
 
 
 ### &#127919; Objectifs
